@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 Project:  ComingSoon
-Version:  
-Last change:  
+Version:
+Last change:
 Assigned to:  Bach Le
-Primary use:  
+Primary use:
 -------------------------------------------------------------------*/
 
 
@@ -13,17 +13,17 @@ Primary use:
 
 @font-face {
   font-family: Barlow-Regular;
-  src: url('../fonts/Barlow/Barlow-Regular.ttf'); 
+  src: url('../fonts/Barlow/Barlow-Regular.ttf');
 }
 
 @font-face {
   font-family: Barlow-Medium;
-  src: url('../fonts/Barlow/Barlow-Medium.ttf'); 
+  src: url('../fonts/Barlow/Barlow-Medium.ttf');
 }
 
 @font-face {
   font-family: Barlow-Bold;
-  src: url('../fonts/Barlow/Barlow-Bold.ttf'); 
+  src: url('../fonts/Barlow/Barlow-Bold.ttf');
 }
 
 
@@ -303,7 +303,7 @@ input.input100 {
 
 
 /*==================================================================
-   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE  
+   WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE WHERE
 ==================================================================*/
 .where1 {
   margin: 20px 5px 0px 5px;
@@ -311,7 +311,7 @@ input.input100 {
 
 
 /*==================================================================
- HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW 
+ HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW HOW
 ==================================================================*/
 .placeholder0::-webkit-input-placeholder { color: #999999;}
 .placeholder0:-moz-placeholder { color: #999999;}
@@ -326,6 +326,7 @@ input.input100 {
 }
 .wrappic1 img {
   max-width: 100%;
+  max-width: 260px;
 }
 
 /*---------------------------------------------*/
@@ -481,7 +482,7 @@ input.input100 {
   .respon1 {
     padding-top: 80px;
   }
-  
+
 }
 
 
