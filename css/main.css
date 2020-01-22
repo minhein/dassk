@@ -509,3 +509,16 @@ input.input100 {
   /*---------------------------------------------*/
 
 }
+
+.wsize2.flex-w.flex-c.hsize1.cd100 {
+    position: relative;
+}
+.wsize2.flex-w.flex-c.hsize1.cd100:before {
+    content: " ";
+    background: black;
+    position: absolute;
+    width: 110px;
+    height: 40px;
+    left: 46px;
+    top: 0px;
+}
